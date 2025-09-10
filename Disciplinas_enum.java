@@ -1,0 +1,6 @@
+package backend.aula7;
+
+public enum Disciplinas_enum {
+	MATEMÁTICA, GEOGRAFIA, INGLÊS, ARTE, BIOLOGIA, FILOSOFIA, LÍNGUA_PORTUGUESA, HISTÓRIA, FÍSICA, EDUCAÇÃO_FÍSICA,
+	QUÍMICA, SOCIOLOGIA;
+}

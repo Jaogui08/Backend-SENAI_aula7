@@ -1,0 +1,6 @@
+package backend.aula7;
+
+public enum Carros_enum {
+	AUDI, MERCEDES_BENZ, PORSCHE, ASTON_MARTIN, CHEVROLET, BUGATTI, KOENIGSEGG, ALFA_ROMEO, FORD, VOLKSWAGEN;
+
+}
